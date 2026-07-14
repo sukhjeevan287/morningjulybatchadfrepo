@@ -1,0 +1,15 @@
+{
+	"name": "practicedfmorningjuly",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3fde90e1-dbfc-4b82-a210-51528e1318c4",
+		"tenantId": "97c85a05-1eed-4efd-af2c-3171e5920d14"
+	}
+}
